@@ -16,7 +16,7 @@
     "@ai-sdk/provider": "^2.0.1",
     "@composio/core": "^0.6.0",
     "@google-cloud/local-auth": "^3.0.1",
-    "@modelcontextprotocol/sdk": "^1.25.1",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@openrouter/ai-sdk-provider": "^1.2.6",
     "@react-pdf/renderer": "^4.3.2",
     "@types/react": "^19.2.7",
