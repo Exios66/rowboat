@@ -65,7 +65,7 @@
     "rowboat-shared": "github:rowboatlabs/shared",
     "tailwind-merge": "^2.5.5",
     "twilio": "^5.7.3",
-    "zod": "^3.23.8",
+    "zod": "^4.6.6",
     "zod-to-json-schema": "^3.23.5"
   },
   "devDependencies": {
