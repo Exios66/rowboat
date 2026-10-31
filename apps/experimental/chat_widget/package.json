@@ -17,7 +17,7 @@
     "react-markdown": "^9.0.1",
     "remark-gfm": "^4.0.0",
     "rowboat-shared": "github:rowboatlabs/shared",
-    "zod": "^3.23.8"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^20",
